@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class DemoAppConfig(AppConfig):
+class CoolKidsOnlyAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'demo_app'
+    name = 'cool_kids_only_app'
